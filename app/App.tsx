@@ -237,7 +237,7 @@ const Home = () => {
         canvas: fabricRef.current,
       });
     });
-
+    //
     window.addEventListener("keydown", (e) =>
       handleKeyDown({
         e,
